@@ -28,7 +28,6 @@
 
 * **Server**: Chạy lắng nghe kết nối từ Client, xử lý yêu cầu và kiểm tra thông tin người dùng. Thông tin tài khoản được lưu trong file `users.txt`. Server cũng có thể xử lý nhiều Client một lúc.
 
-Đề tài này mục đích chính là minh họa cách Client và Server trao đổi dữ liệu qua mạng, cách viết ứng dụng desktop đơn giản, và tạo nền tảng để sau này có thể nâng cấp hệ thống phức tạp hơn.
 
 
 ## 🔧 2. Ngôn ngữ lập trình sử dụng: [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
