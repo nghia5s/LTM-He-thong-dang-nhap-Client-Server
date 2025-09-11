@@ -1,4 +1,4 @@
-<h2 align="center">
+<img width="148" height="148" alt="image" src="https://github.com/user-attachments/assets/bc718268-1a77-4c4a-b430-f17d439ea239" /><h2 align="center">
     <a href="https://dainam.edu.vn/vi/khoa-cong-nghe-thong-tin">
     🎓 Faculty of Information Technology (DaiNam University)
     </a>
@@ -36,8 +36,8 @@
 
 
 
-## 3. Công nghệ sử dụng: [![Swing](https://img.shields.io/badge/Swing-007396?style=for-the-badge&logo=java&logoColor=white)](https://docs.oracle.com/javase/tutorial/uiswing/)  [![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)](https://www.eclipse.org/)
+## 🚀 3. Công nghệ sử dụng: [![Swing](https://img.shields.io/badge/Swing-007396?style=for-the-badge&logo=java&logoColor=white)](https://docs.oracle.com/javase/tutorial/uiswing/)  [![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)](https://www.eclipse.org/)
 
-## 4. Hình ảnh các chức năng
+## 🎞️ 4. Hình ảnh các chức năng
 
-## 5. Các bước cài đặt
+## 💿 5. Các bước cài đặt
