@@ -20,6 +20,15 @@
 </div>
 
 ## 📖 1. Giới thiệu
-Học phần trang bị cho người học những kiến thức nền tảng của lập trình mạng và các kỹ năng cần thiết để thiết kế và cài đặt các ứng dụng mạng và các chuẩn ở mức ứng dụng dựa trên mô hình Client/Server, có sử dụng các giao tiếp chương trình dựa trên Sockets. Kết thúc học phần, sinh viên có thể viết các chương trình ứng dụng mạng với giao thức tầng ứng dụng tự thiết kế.
+Đề tài này làm một hệ thống đăng nhập đơn giản chạy theo mô hình Client-Server. Ý tưởng là xây một app nhỏ để người dùng có thể đăng ký và đăng nhập tài khoản, nhưng vẫn dễ làm và dễ hiểu.
+
+Ứng dụng chia thành 2 phần:
+
+* **Client**: Viết bằng Java Swing, có giao diện đơn giản chỉ để nhập tên đăng nhập và mật khẩu, rồi nhấn nút để đăng ký hoặc đăng nhập. Client sẽ gửi thông tin này lên Server qua kết nối TCP.
+
+* **Server**: Chạy lắng nghe kết nối từ Client, xử lý yêu cầu và kiểm tra thông tin người dùng. Thông tin tài khoản được lưu trong file `users.txt`. Server cũng có thể xử lý nhiều Client một lúc.
+
+Đề tài này mục đích chính là minh họa cách Client và Server trao đổi dữ liệu qua mạng, cách viết ứng dụng desktop đơn giản, và tạo nền tảng để sau này có thể nâng cấp hệ thống phức tạp hơn.
+
 
 ## 🔧 2. Ngôn ngữ lập trình sử dụng: [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
